@@ -1,7 +1,7 @@
 {
   "qq_number": "2947369327",
   "group_number": "1093659432",
-  "updated_at": "2026-06-01T18:06:18+00:00",
+  "updated_at": "2026-06-01T18:07:46+00:00",
   "skins": [
     {
       "name": "舟の遗忘的耳语1",
@@ -62,6 +62,12 @@
       "file": "舟の绛平春2无动销.bdi",
       "thumb": "舟の绛平春2无动销.bdi_py_26_light_thumb.png",
       "full": "舟の绛平春2无动销.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "舟の绛平春1",
+      "file": "舟の绛平春1.bdi",
+      "thumb": "舟の绛平春1.bdi_py_26_light_thumb.png",
+      "full": "舟の绛平春1.bdi_py_26_light_thumb.png"
     }
   ]
 }
