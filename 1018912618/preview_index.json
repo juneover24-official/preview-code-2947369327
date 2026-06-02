@@ -1,7 +1,7 @@
 {
   "qq_number": "2947369327",
   "group_number": "1018912618",
-  "updated_at": "2026-06-02T03:36:27+00:00",
+  "updated_at": "2026-06-02T03:50:10+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -44,6 +44,12 @@
       "file": "舟の寻氧水2.bdi",
       "thumb": "舟の寻氧水2.bdi_py_26_light_thumb.png",
       "full": "舟の寻氧水2.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "舟の寻氧水2",
+      "file": "舟の寻氧水2.bds",
+      "thumb": "舟の寻氧水2.bds_py_26_light_thumb.png",
+      "full": "舟の寻氧水2.bds_py_26_light_thumb.png"
     }
   ]
 }
