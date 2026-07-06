@@ -1,7 +1,7 @@
 {
   "qq_number": "2947369327",
   "group_number": "1093659432",
-  "updated_at": "2026-07-06T16:41:49+00:00",
+  "updated_at": "2026-07-06T16:41:56+00:00",
   "skins": [
     {
       "name": "舟の遗忘的耳语1",
@@ -164,6 +164,12 @@
       "file": "舟-余烬2融-无动销.bds",
       "thumb": "舟-余烬2融-无动销.bds_py_26_light_thumb.png",
       "full": "舟-余烬2融-无动销.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "舟の余烬-2",
+      "file": "舟-余烬2无动销.bds",
+      "thumb": "舟-余烬2无动销.bds_py_26_light_thumb.png",
+      "full": "舟-余烬2无动销.bds_py_26_light_thumb.png"
     }
   ]
 }
